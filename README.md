@@ -37,5 +37,5 @@
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by an adaptable developer</sub>
+  <sub>Designed with ❤️ by Me :)</sub>
 </div>
